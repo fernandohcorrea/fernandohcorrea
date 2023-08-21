@@ -19,6 +19,8 @@ It's fundamental to me
         <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"/>
         <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/>
         <img src="https://img.shields.io/badge/-jest-%23C21325?style=for-the-badge&logo=jest&logoColor=white"/>
+        <img src="https://img.shields.io/badge/php-%23777BB4?style=for-the-badge&logo=php&logoColor=white"/>
+        <img src="https://img.shields.io/badge/laravel-%23C21325?style=for-the-badge&logo=laravel&logoColor=white"/>
     </div>
 </div>
 
