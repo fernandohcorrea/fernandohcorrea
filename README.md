@@ -24,14 +24,17 @@ It's fundamental to me
     </div>
 </div>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=fernandohcorrea&show_icons=true&count_private=true&theme=tokyonight)
 
 # Popular public repositories
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=fernandohcorrea&theme=tokyonight&&repo=websocket-chat)](https://github.com/fernandohcorrea/websocket-chat)
+ 
+ 
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=fernandohcorrea&theme=tokyonight&&repo=FWGame)](https://github.com/fernandohcorrea/FWGame)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=fernandohcorrea&theme=tokyonight&&repo=rpjs_meetup_3_projeto)](https://github.com/fernandohcorrea/rpjs_meetup_3_projeto)
+[![Static Badge](https://img.shields.io/badge/github-repo-blue?logo=github) - WebSocket-Chat](https://github.com/fernandohcorrea/websocket-chat)
+
+[![Static Badge](https://img.shields.io/badge/github-repo-blue?logo=github) - FWGame](https://github.com/fernandohcorrea/FWGame)
+
+[![Static Badge](https://img.shields.io/badge/github-repo-blue?logo=github) - Meetup-RPJS](https://github.com/fernandohcorrea/rpjs_meetup_3_projeto)
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=fernandohcorrea" alt="" />
